@@ -1,4 +1,5 @@
-# 🎓 AI-Powered Personalized Learning & Career Guidance Platform
+# 🎓SkillNova – AI-Powered Personalized Learning & Career Guidance Platform
+
 
 📌 Overview
 
